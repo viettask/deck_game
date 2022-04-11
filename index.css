@@ -4,7 +4,6 @@ html, body {
     background-image: url("img/table.png");
     font-family: "Exo 2", sans-serif;
     height: 100vh;
-    background-color:green;
 }
 
 body {
@@ -12,7 +11,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    color: black;
+    color: white;
 }
 
 button {
